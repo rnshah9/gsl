@@ -1,7 +1,5 @@
 project: rnshah9/gsl
 target: gsl
-image: ghcr.io/rnshah9/playground:gsl
 
 cmds:
   - cmd: /repo/.libs/gsl-histogram 0 10
- #    filepath: /test.c
