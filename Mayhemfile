@@ -1,5 +1,5 @@
 project: rnshah9/gsl
-target: gsl
+target: gsl-histogram
 
 cmds:
   - cmd: /repo/.libs/gsl-histogram 0 10
