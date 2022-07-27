@@ -2,4 +2,4 @@ project: gsl
 target: gsl-histogram
 
 cmds:
-  - cmd: /repo/.libs/gsl-histogram 0 10
+  - cmd: /install/bin/gsl-histogram 0 10
